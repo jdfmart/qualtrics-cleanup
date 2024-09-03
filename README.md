@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Data Cleaning Script for Qualtrics Exports
 
 This repository contains an R script to clean and preprocess .csv data
